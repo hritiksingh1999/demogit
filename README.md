@@ -11,3 +11,4 @@ some more info
 
 1. open ii.html in you browser.
 2. checking my ssh key
+3. retesting it
